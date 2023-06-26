@@ -6,9 +6,9 @@ Pre-requisites : Git, Linux, Jenkins, Docker, DockerHub Account, Ansible,Kuberne
 
 3 ec2 instances :
 ----------------------------------------------
-1. Jenkins 
-2.Ansible  
-3.Webapp
+Jenkins 
+Ansible  
+Webapp
 
 For jenkins installation:
 ----------------------------------------------------------------------------------
